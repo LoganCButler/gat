@@ -13,9 +13,8 @@ Thanks for listening to my presentation and my role as a software architect. Her
 ### Websites referenced in presentation
 - [Recaman Series](https://logancbutler.github.io/tattoo/). Website used to show how Logan's tattoo continues. 
 - [Logan's Family Wordle Prank](https://logancbutler.github.io/butle/)
-- [DALL·E](https://labs.openai.com/) AI art generator
-  - [Bloomindale student art 2022](https://labs.openai.com/sc/qqidHBh7g76UQ2SdGPGtrcjD)
-
+- [Ironman Florida](https://www.ironman.com/races/im-florida) Triathlon
+  
 ## Want to learn more? 
 
 Need and introduction to coding? Check out these sites. This is where I started my tech carer.  
